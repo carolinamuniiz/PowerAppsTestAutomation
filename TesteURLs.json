@@ -1,0 +1,8 @@
+{
+  "TestURLs": 
+  [
+    "http://sistema.condhouse.com.br/auth{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
+    "http://sistema.condhouse.com.br/auth{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
+    "http://sistema.condhouse.com.br/auth{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}"
+  ]
+}
